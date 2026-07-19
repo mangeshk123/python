@@ -1,0 +1,31 @@
+----------------------------------------
+
+Marvellous Automation script 
+----------------------------------------
+
+Files from the directory are : 
+
+----------------------------------------
+Marvellous\Mumbai\Empty.txt : 0
+Marvellous\Mumbai\File_Read.py : 321
+Marvellous\Mumbai\File_ReadX.py : 319
+Marvellous\Mumbai\File_Read_Seek.py : 422
+Marvellous\Mumbai\File_Tell.py : 413
+Marvellous\Mumbai\File_TellX.py : 528
+Marvellous\Pune\Empty.txt : 0
+Marvellous\Pune\ScheduleDemo1.py : 158
+Marvellous\Pune\ScheduleDemo2.py : 272
+Marvellous\Pune\ScheduleDemo3.py : 363
+Marvellous\Pune\ScheduleDemo4.py : 365
+Marvellous\Satara\AutomationScript1.py : 211
+Marvellous\Satara\AutomationScript2.py : 242
+Marvellous\Satara\AutomationScript3.py : 494
+Marvellous\Satara\AutomationScript4.py : 740
+Marvellous\Satara\Empty.txt : 0
+Marvellous\Satara\Empty1.txt : 0
+----------------------------------------
+Total files scanned :17
+Total Empty files found and deleted:4
+----------------------------------------
+Log file gets created at :Sun Jul 19 20:33:46 2026
+----------------------------------------

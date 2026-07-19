@@ -1,0 +1,11 @@
+import os
+def main():
+    try:
+        # fobj.remove() --> not applicable
+        os.remove("Demo.txt")
+    except FileNotFoundError as err:
+        print("File is not present in current directory")
+
+    
+if __name__ == "__main__":
+    main()

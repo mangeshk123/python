@@ -1,0 +1,26 @@
+from functools import reduce
+
+def isPrimeOrNot(No):
+    for i in range(2,int(No/2)) :
+        if(No % i == 0):
+            return False
+    return True
+
+def sumtDigitsInNumber(No1,No2):
+    return No1 + No2
+
+def main():
+    Arr = []
+    print("Enter how many number you want to enter :")
+    Num = int(input())
+    for i in range(Num):
+        print("Enter number you want to add :")
+        member = int(input())
+        Arr.append(member)
+    fData =  list(filter(isPrimeOrNot,Arr))
+    Ret = reduce(sumtDigitsInNumber,fData)
+    print("Sum of prime numbers in Entered Number are : ",Ret)
+        
+if __name__ == "__main__" :
+    main()
+    
