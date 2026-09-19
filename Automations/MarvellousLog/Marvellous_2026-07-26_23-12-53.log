@@ -1,0 +1,1654 @@
+--------------------------------------------------
+----Marvellous platform Surveilance System----
+Log file gets created at :2026-07-26_23-12-53 
+--------------------------------------------------
+
+---------------------System Report----------------------
+Number of active cores 8 
+CPU Usage 34.4 % 
+--------------------------------------------------
+RAM usage 58.3 %
+Total RAM available 16934494208 
+--------------------------------------------------
+Network usage reportSent : 5.72 MB 
+Received : 17.96 MB 
+--------------------------------------------------
+PID : 0 
+Name : System Idle Process 
+UserName : NT AUTHORITY\SYSTEM 
+Status : running 
+CPU usage : 535.20 
+Ram usage : 0.00 
+--------------------------------------------------
+PID : 4 
+Name : System 
+UserName : NT AUTHORITY\SYSTEM 
+Status : running 
+CPU usage : 13.00 
+Ram usage : 0.19 
+--------------------------------------------------
+PID : 140 
+Name :  
+UserName : None 
+Status : stopped 
+CPU usage : 0.00 
+Ram usage : 0.37 
+--------------------------------------------------
+PID : 184 
+Name : Registry 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.15 
+--------------------------------------------------
+PID : 684 
+Name : smss.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.01 
+--------------------------------------------------
+PID : 828 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.08 
+--------------------------------------------------
+PID : 984 
+Name : mscopilot.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.76 
+--------------------------------------------------
+PID : 1124 
+Name : csrss.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.30 
+Ram usage : 0.04 
+--------------------------------------------------
+PID : 1208 
+Name : wininit.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.05 
+--------------------------------------------------
+PID : 1216 
+Name : csrss.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.20 
+Ram usage : 0.05 
+--------------------------------------------------
+PID : 1248 
+Name : Code.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.33 
+--------------------------------------------------
+PID : 1276 
+Name : winlogon.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.11 
+--------------------------------------------------
+PID : 1356 
+Name : services.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.70 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 1376 
+Name : LsaIso.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.02 
+--------------------------------------------------
+PID : 1384 
+Name : lsass.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.40 
+Ram usage : 0.19 
+--------------------------------------------------
+PID : 1516 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.40 
+Ram usage : 0.27 
+--------------------------------------------------
+PID : 1548 
+Name : fontdrvhost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.04 
+--------------------------------------------------
+PID : 1556 
+Name : fontdrvhost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.02 
+--------------------------------------------------
+PID : 1596 
+Name : WUDFHost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.13 
+--------------------------------------------------
+PID : 1680 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 1.10 
+Ram usage : 0.13 
+--------------------------------------------------
+PID : 1732 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.08 
+--------------------------------------------------
+PID : 1796 
+Name : msedge.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.42 
+--------------------------------------------------
+PID : 1820 
+Name : WUDFHost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.06 
+--------------------------------------------------
+PID : 1868 
+Name : OfficeClickToRun.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.30 
+--------------------------------------------------
+PID : 1896 
+Name : dwm.exe 
+UserName : None 
+Status : running 
+CPU usage : 8.50 
+Ram usage : 0.93 
+--------------------------------------------------
+PID : 2004 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.04 
+--------------------------------------------------
+PID : 2020 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.20 
+--------------------------------------------------
+PID : 2036 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 2104 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 2140 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.10 
+--------------------------------------------------
+PID : 2148 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.09 
+--------------------------------------------------
+PID : 2204 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.14 
+--------------------------------------------------
+PID : 2228 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 2288 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.11 
+--------------------------------------------------
+PID : 2300 
+Name : RuntimeBroker.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.32 
+--------------------------------------------------
+PID : 2372 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 2428 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.06 
+--------------------------------------------------
+PID : 2440 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.05 
+--------------------------------------------------
+PID : 2472 
+Name : powershell.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.44 
+--------------------------------------------------
+PID : 2484 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.08 
+--------------------------------------------------
+PID : 2552 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.06 
+--------------------------------------------------
+PID : 2560 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.08 
+--------------------------------------------------
+PID : 2564 
+Name : msedge.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.09 
+--------------------------------------------------
+PID : 2572 
+Name : powershell.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.34 
+--------------------------------------------------
+PID : 2584 
+Name : RuntimeBroker.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.14 
+--------------------------------------------------
+PID : 2768 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.14 
+--------------------------------------------------
+PID : 2800 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 1.20 
+Ram usage : 0.27 
+--------------------------------------------------
+PID : 2860 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.09 
+--------------------------------------------------
+PID : 2884 
+Name : mscopilot.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.91 
+--------------------------------------------------
+PID : 2916 
+Name : CodeSetup-stable-1b6a188127eeaf9194f945eb6eb89a657e93c54c.tmp 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.19 
+--------------------------------------------------
+PID : 2964 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.13 
+--------------------------------------------------
+PID : 2988 
+Name : IntelCpHDCPSvc.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.04 
+--------------------------------------------------
+PID : 3052 
+Name : svchost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.09 
+--------------------------------------------------
+PID : 3092 
+Name : chrome.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.10 
+--------------------------------------------------
+PID : 3096 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.20 
+Ram usage : 0.14 
+--------------------------------------------------
+PID : 3112 
+Name : M365Copilot.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.79 
+--------------------------------------------------
+PID : 3140 
+Name : dllhost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.10 
+--------------------------------------------------
+PID : 3160 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.05 
+--------------------------------------------------
+PID : 3168 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.12 
+--------------------------------------------------
+PID : 3184 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 3212 
+Name : audiodg.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.26 
+--------------------------------------------------
+PID : 3268 
+Name : pet.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 3292 
+Name : MemCompression 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 3.93 
+--------------------------------------------------
+PID : 3352 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.08 
+--------------------------------------------------
+PID : 3400 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.10 
+--------------------------------------------------
+PID : 3424 
+Name : WUDFHost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.06 
+--------------------------------------------------
+PID : 3452 
+Name : mscopilot.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.41 
+--------------------------------------------------
+PID : 3460 
+Name : igfxCUIServiceN.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.09 
+--------------------------------------------------
+PID : 3556 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 3568 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 3616 
+Name : SysInfoCap.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.71 
+--------------------------------------------------
+PID : 3624 
+Name : Code.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.21 
+--------------------------------------------------
+PID : 3632 
+Name : TouchpointAnalyticsClientService.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.47 
+--------------------------------------------------
+PID : 3644 
+Name : NetworkCap.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.21 
+--------------------------------------------------
+PID : 3652 
+Name : DiagsCap.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.12 
+--------------------------------------------------
+PID : 3664 
+Name : AppHelperCap.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.12 
+--------------------------------------------------
+PID : 3772 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.30 
+Ram usage : 0.12 
+--------------------------------------------------
+PID : 3864 
+Name : mscopilot.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.08 
+--------------------------------------------------
+PID : 3964 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.40 
+Ram usage : 0.17 
+--------------------------------------------------
+PID : 4044 
+Name : Notepad.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 1.44 
+--------------------------------------------------
+PID : 4216 
+Name : unsecapp.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.06 
+--------------------------------------------------
+PID : 4324 
+Name : WmiPrvSE.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.11 
+--------------------------------------------------
+PID : 4440 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 4484 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.05 
+--------------------------------------------------
+PID : 4552 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.05 
+--------------------------------------------------
+PID : 4640 
+Name : chrome.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.30 
+--------------------------------------------------
+PID : 4644 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.15 
+--------------------------------------------------
+PID : 4676 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.12 
+--------------------------------------------------
+PID : 4776 
+Name : spoolsv.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.12 
+--------------------------------------------------
+PID : 4844 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.16 
+--------------------------------------------------
+PID : 4908 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.09 
+--------------------------------------------------
+PID : 4928 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.06 
+--------------------------------------------------
+PID : 4996 
+Name : msedge.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.92 
+--------------------------------------------------
+PID : 5016 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.09 
+--------------------------------------------------
+PID : 5088 
+Name : NgcIso.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.03 
+--------------------------------------------------
+PID : 5096 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.20 
+Ram usage : 0.34 
+--------------------------------------------------
+PID : 5104 
+Name : ELAN_MOC_Service.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.05 
+--------------------------------------------------
+PID : 5124 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.15 
+--------------------------------------------------
+PID : 5152 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.09 
+--------------------------------------------------
+PID : 5176 
+Name : MpDefenderCoreService.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.14 
+--------------------------------------------------
+PID : 5196 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.08 
+--------------------------------------------------
+PID : 5208 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.10 
+--------------------------------------------------
+PID : 5240 
+Name : esif_uf.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.05 
+--------------------------------------------------
+PID : 5248 
+Name : ETDService.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.05 
+--------------------------------------------------
+PID : 5260 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.16 
+--------------------------------------------------
+PID : 5264 
+Name : OneApp.IGCC.WinService.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.29 
+--------------------------------------------------
+PID : 5280 
+Name : RstMwService.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 5292 
+Name : RtkAudUService64.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.20 
+Ram usage : 0.12 
+--------------------------------------------------
+PID : 5320 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.04 
+--------------------------------------------------
+PID : 5328 
+Name : MsMpEng.exe 
+UserName : None 
+Status : running 
+CPU usage : 13.20 
+Ram usage : 1.32 
+--------------------------------------------------
+PID : 5396 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.17 
+--------------------------------------------------
+PID : 5564 
+Name : conhost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.04 
+--------------------------------------------------
+PID : 5660 
+Name : jhi_service.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.05 
+--------------------------------------------------
+PID : 5728 
+Name : WMIRegistrationService.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.10 
+--------------------------------------------------
+PID : 5840 
+Name : SECOMN64.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.90 
+Ram usage : 0.12 
+--------------------------------------------------
+PID : 5848 
+Name : IntelAudioService.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.18 
+--------------------------------------------------
+PID : 5928 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.18 
+--------------------------------------------------
+PID : 6040 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.23 
+--------------------------------------------------
+PID : 6140 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.06 
+--------------------------------------------------
+PID : 6232 
+Name : ETDCtrl.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.11 
+--------------------------------------------------
+PID : 6508 
+Name : sihost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.33 
+--------------------------------------------------
+PID : 6740 
+Name : Code.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 2.30 
+Ram usage : 1.09 
+--------------------------------------------------
+PID : 6756 
+Name : OneDrive.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 73.20 
+Ram usage : 2.18 
+--------------------------------------------------
+PID : 6968 
+Name : dllhost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.08 
+--------------------------------------------------
+PID : 7128 
+Name : msedgewebview2.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.09 
+--------------------------------------------------
+PID : 7196 
+Name : msedgewebview2.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.02 
+--------------------------------------------------
+PID : 7200 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.06 
+--------------------------------------------------
+PID : 7240 
+Name : svchost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.24 
+--------------------------------------------------
+PID : 7364 
+Name : svchost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.05 
+--------------------------------------------------
+PID : 7420 
+Name : svchost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.24 
+--------------------------------------------------
+PID : 7440 
+Name : mscopilot.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.17 
+--------------------------------------------------
+PID : 7516 
+Name : Code.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 1.23 
+--------------------------------------------------
+PID : 7556 
+Name : taskhostw.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.13 
+--------------------------------------------------
+PID : 7608 
+Name : wlanext.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.06 
+--------------------------------------------------
+PID : 7624 
+Name : igfxEMN.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.11 
+--------------------------------------------------
+PID : 7636 
+Name : svchost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.19 
+--------------------------------------------------
+PID : 7640 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.27 
+--------------------------------------------------
+PID : 7772 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.17 
+--------------------------------------------------
+PID : 7856 
+Name : OneDrive.Sync.Service.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 31.40 
+Ram usage : 0.42 
+--------------------------------------------------
+PID : 7920 
+Name : msedgewebview2.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.04 
+--------------------------------------------------
+PID : 7956 
+Name : chrome.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.06 
+--------------------------------------------------
+PID : 8064 
+Name : AggregatorHost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.09 
+--------------------------------------------------
+PID : 8152 
+Name : PhoneExperienceHost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.91 
+--------------------------------------------------
+PID : 8160 
+Name : explorer.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 13.20 
+Ram usage : 2.06 
+--------------------------------------------------
+PID : 8164 
+Name : RuntimeBroker.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.09 
+--------------------------------------------------
+PID : 8268 
+Name : Code.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 4.10 
+Ram usage : 2.13 
+--------------------------------------------------
+PID : 8300 
+Name : Code.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.60 
+Ram usage : 1.02 
+--------------------------------------------------
+PID : 8544 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.18 
+--------------------------------------------------
+PID : 8568 
+Name : SystemSettings.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : stopped 
+CPU usage : 0.00 
+Ram usage : 0.03 
+--------------------------------------------------
+PID : 8588 
+Name : RtkAudUService64.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.10 
+--------------------------------------------------
+PID : 8616 
+Name : msedge.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.27 
+--------------------------------------------------
+PID : 8672 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 8700 
+Name : cmd.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.04 
+--------------------------------------------------
+PID : 8708 
+Name : SecurityHealthService.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.19 
+--------------------------------------------------
+PID : 8748 
+Name : Code.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.62 
+--------------------------------------------------
+PID : 8784 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.10 
+--------------------------------------------------
+PID : 8844 
+Name : SecurityHealthSystray.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.08 
+--------------------------------------------------
+PID : 8904 
+Name : UserOOBEBroker.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 8952 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.22 
+--------------------------------------------------
+PID : 9020 
+Name : CrossDeviceResume.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.38 
+--------------------------------------------------
+PID : 9132 
+Name : NisSrv.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.08 
+--------------------------------------------------
+PID : 9208 
+Name : CrossDeviceService.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.59 
+--------------------------------------------------
+PID : 9312 
+Name : LockApp.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : stopped 
+CPU usage : 0.00 
+Ram usage : 0.76 
+--------------------------------------------------
+PID : 9500 
+Name : SearchHost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 1.01 
+--------------------------------------------------
+PID : 9572 
+Name : StartMenuExperienceHost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 1.13 
+--------------------------------------------------
+PID : 9688 
+Name : Widgets.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.34 
+--------------------------------------------------
+PID : 9748 
+Name : RuntimeBroker.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.46 
+--------------------------------------------------
+PID : 9792 
+Name : svchost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.18 
+--------------------------------------------------
+PID : 9908 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 10008 
+Name : WidgetService.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.15 
+--------------------------------------------------
+PID : 10028 
+Name : mscopilot.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.33 
+--------------------------------------------------
+PID : 10204 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 10304 
+Name : msedgewebview2.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.77 
+--------------------------------------------------
+PID : 10324 
+Name : msedgewebview2.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.01 
+--------------------------------------------------
+PID : 10424 
+Name : msedgewebview2.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.08 
+--------------------------------------------------
+PID : 10480 
+Name : msedgewebview2.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.73 
+--------------------------------------------------
+PID : 10580 
+Name : FileCoAuth.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.70 
+Ram usage : 0.27 
+--------------------------------------------------
+PID : 10684 
+Name : OpenConsole.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 10884 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.05 
+--------------------------------------------------
+PID : 10908 
+Name : ctfmon.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.30 
+Ram usage : 0.22 
+--------------------------------------------------
+PID : 11052 
+Name : msedgewebview2.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.68 
+--------------------------------------------------
+PID : 11100 
+Name : msedgewebview2.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.27 
+--------------------------------------------------
+PID : 11188 
+Name : msedgewebview2.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.13 
+--------------------------------------------------
+PID : 11244 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 11328 
+Name : msedgewebview2.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.08 
+--------------------------------------------------
+PID : 11496 
+Name : SearchIndexer.exe 
+UserName : None 
+Status : running 
+CPU usage : 1.30 
+Ram usage : 0.35 
+--------------------------------------------------
+PID : 11504 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.11 
+--------------------------------------------------
+PID : 11524 
+Name : svchost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.12 
+--------------------------------------------------
+PID : 11776 
+Name : ApplicationFrameHost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.31 
+--------------------------------------------------
+PID : 11932 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.17 
+--------------------------------------------------
+PID : 12024 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.06 
+--------------------------------------------------
+PID : 12040 
+Name : Code.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.70 
+--------------------------------------------------
+PID : 12104 
+Name : conhost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.13 
+--------------------------------------------------
+PID : 12116 
+Name : Code.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.76 
+--------------------------------------------------
+PID : 12276 
+Name : dllhost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 12336 
+Name : mscopilot_proxy.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.09 
+--------------------------------------------------
+PID : 12420 
+Name : msedge.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.14 
+--------------------------------------------------
+PID : 12456 
+Name : OpenConsole.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.07 
+--------------------------------------------------
+PID : 12612 
+Name : elevation_service.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.09 
+--------------------------------------------------
+PID : 12740 
+Name : chrome.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.34 
+--------------------------------------------------
+PID : 12816 
+Name : chrome.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 2.42 
+--------------------------------------------------
+PID : 13004 
+Name : mscopilot.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.36 
+--------------------------------------------------
+PID : 13012 
+Name : mscopilot.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.28 
+--------------------------------------------------
+PID : 13044 
+Name : mscopilot.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.12 
+--------------------------------------------------
+PID : 13100 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.10 
+--------------------------------------------------
+PID : 13164 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.09 
+--------------------------------------------------
+PID : 13288 
+Name : chrome.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.37 
+--------------------------------------------------
+PID : 13716 
+Name : RtkAudUService64.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.05 
+--------------------------------------------------
+PID : 14016 
+Name : ShellHost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.32 
+--------------------------------------------------
+PID : 14096 
+Name : CodeSetup-stable-1b6a188127eeaf9194f945eb6eb89a657e93c54c.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.06 
+--------------------------------------------------
+PID : 14288 
+Name : Code.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 4.17 
+--------------------------------------------------
+PID : 14320 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.06 
+--------------------------------------------------
+PID : 14328 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.80 
+Ram usage : 0.16 
+--------------------------------------------------
+PID : 14432 
+Name : msedgewebview2.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.13 
+--------------------------------------------------
+PID : 14444 
+Name : chrome.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.12 
+--------------------------------------------------
+PID : 14452 
+Name : chrome.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.20 
+Ram usage : 0.75 
+--------------------------------------------------
+PID : 14624 
+Name : svchost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.12 
+--------------------------------------------------
+PID : 14748 
+Name : AppActions.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.25 
+--------------------------------------------------
+PID : 14832 
+Name : FileSyncHelper.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.19 
+--------------------------------------------------
+PID : 14932 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.12 
+--------------------------------------------------
+PID : 14948 
+Name : chrome.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.20 
+--------------------------------------------------
+PID : 15084 
+Name : chrome.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 8.90 
+Ram usage : 1.75 
+--------------------------------------------------
+PID : 15140 
+Name : dllhost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.10 
+--------------------------------------------------
+PID : 15692 
+Name : ShellExperienceHost.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : stopped 
+CPU usage : 1.00 
+Ram usage : 0.84 
+--------------------------------------------------
+PID : 15956 
+Name : RuntimeBroker.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.16 
+--------------------------------------------------
+PID : 16456 
+Name : smartscreen.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.08 
+--------------------------------------------------
+PID : 16796 
+Name : svchost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.00 
+Ram usage : 0.18 
+--------------------------------------------------
+PID : 17084 
+Name : chrome.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 2.70 
+Ram usage : 0.31 
+--------------------------------------------------
+PID : 17092 
+Name : chrome.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 6.20 
+Ram usage : 1.56 
+--------------------------------------------------
+PID : 17132 
+Name : python.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 3.00 
+Ram usage : 0.15 
+--------------------------------------------------
+PID : 17180 
+Name : chrome.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.60 
+Ram usage : 0.90 
+--------------------------------------------------
+PID : 17224 
+Name : SearchProtocolHost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.13 
+--------------------------------------------------
+PID : 17260 
+Name : SearchFilterHost.exe 
+UserName : None 
+Status : running 
+CPU usage : 0.10 
+Ram usage : 0.08 
+--------------------------------------------------
+PID : 17328 
+Name : chrome.exe 
+UserName : DESKTOP-PHVP7SJ\Admin 
+Status : running 
+CPU usage : 0.60 
+Ram usage : 0.14 
+--------------------------------------------------
+---------------------End of log file-------------------- 
